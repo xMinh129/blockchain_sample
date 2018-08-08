@@ -1,0 +1,6 @@
+.idea/
+.cache/
+build/
+dist/
+*.egg-info/
+*.log
